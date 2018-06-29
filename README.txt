@@ -1,1 +1,0 @@
-its an app to feed the news from json file uploaded to the server     
